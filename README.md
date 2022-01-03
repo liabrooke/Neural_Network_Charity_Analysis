@@ -1,6 +1,6 @@
 # Overview of the Analaysis: Neural Network Charity
 ### Purpose
-###### Alphabet Soup, a nonprofit network, enlisted our help to create a binary classifier that can determine which applicants will be successful if Alphabet Soup provides them funding.
+###### Alphabet Soup, a nonprofit network, enlisted our help in regards to them donating funds. In the past, recipients have taken money & disappeared, not actually creating the impact that they promised to deliver. To tackle this issue, we need to help create a binary classifier that can determine which applicants will hold true to their promise of creating impact if Alphabet Soup gives them funds.
 
 ### Results
 ##### Data Preprocessing
